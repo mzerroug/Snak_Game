@@ -3,11 +3,11 @@ Url     : http://codes-sources.commentcamarche.net/source/54045-un-simple-snake-
 Licence :
 =========
 
-Ce document intitulé « Un simple snake en java » issu de CommentCaMarche
-(codes-sources.commentcamarche.net) est mis à disposition sous les termes de
+Ce document intitulÃ© Â« Un simple snake en java Â» issu de CommentCaMarche
+(codes-sources.commentcamarche.net) est mis Ã  disposition sous les termes de
 la licence Creative Commons. Vous pouvez copier, modifier des copies de cette
-source, dans les conditions fixées par la licence, tant que cette note
-apparaît clairement.
+source, dans les conditions fixÃ©es par la licence, tant que cette note
+apparaÃ®t clairement.
 
 Description :
 =============
@@ -15,7 +15,8 @@ Description :
 Un petit snake en Java sans image sans fichier de score ou de sauvegarde. Les co
 uleurs du snake et des pommes sont au hasard.
 <br /><a name='source-exemple'></
-a><h2> Source / Exemple : </h2>
+a><h2> Source / Exemple : </h2>
+
 <br /><pre class='code' data-mode='basic'>
 Le
  reste du code est dans l'archive !
