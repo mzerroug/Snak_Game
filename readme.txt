@@ -1,6 +1,3 @@
-Here’s an expanded and detailed **README.md** file for your **Snake Game** project:
-
----
 
 # Snake Game in Java 🐍
 
