@@ -1,4 +1,4 @@
-```
+
 # Snake Game in Java 🐍
 
 A classic **Snake Game** implemented using Java. The game allows the player to control a snake, which grows longer as it collects apples. The objective is to avoid collisions with the walls or the snake's body while collecting apples to increase the snake's length.
@@ -93,4 +93,4 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 ---
 
 For any questions or suggestions, feel free to contact the developer at [zerrougmaha02@gmail.com].
-```
+
